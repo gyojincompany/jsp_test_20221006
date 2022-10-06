@@ -7,7 +7,7 @@
 <title>회원가입</title>
 </head>
 <body>
-	<h3>회원 가입 양식</h3>
+	<h3>회원 가입 양식 입력</h3>
 	<hr>
 	<form action="joinOk.jsp" method="get">	
 		** 아이디 : <input type="text" name="memberId" required="required" autofocus="autofocus"><br><br>
